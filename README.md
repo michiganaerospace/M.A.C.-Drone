@@ -4,3 +4,5 @@ The M.A.C. Drone is an ongoing project in order to create a easily modifiable li
 The main goal is to provide a platform with high customizability and ease of access. 
 We are going down two diferent paths which is the Raspberry PI and the Beaglebone Board.
 Each has its own advantages and disadvantages so feel free to provide input on this project.
+
+![alt text](https://dojofordrones.com/wp-content/uploads/2019/03/raspberry-pi-drone-1024x768.jpg)
